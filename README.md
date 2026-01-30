@@ -164,8 +164,7 @@ results = skill.process_batch("./录音文件夹/")
 - 🐛 发现问题？提交 [Issue](../../issues)
 - 📧 联系作者：微信公众号：祁永辉
 - ⭐ 觉得好用？点个 Star 支持一下！
-
----![qrcode_for_gh_daeeac8db4e9_344](https://github.com/user-attachments/assets/2adc5184-0ac1-48cf-941e-646049c00b7d)
+![qrcode_for_gh_daeeac8db4e9_344](https://github.com/user-attachments/assets/2adc5184-0ac1-48cf-941e-646049c00b7d)
 
 
 **让会议记录不再头疼，让知识获取更加高效！** 🚀
